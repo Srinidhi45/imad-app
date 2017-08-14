@@ -7,7 +7,7 @@ button.onclick = function () {
     
     
     // make a request to the counter endpoint
-    
+    var request = XMLHttpRequest();
     
     // capture a response and store it in a variable
     
